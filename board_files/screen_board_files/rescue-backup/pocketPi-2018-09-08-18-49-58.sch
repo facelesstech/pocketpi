@@ -184,7 +184,7 @@ U 1 1 5B45A7CD
 P 2600 4050
 F 0 "SW1" H 2400 4200 50  0000 C CNN
 F 1 "SWITCH_INV" H 2450 3900 50  0000 C CNN
-F 2 "buttons_custom:switch_6pin_smd_custom" H 2600 4050 60  0001 C CNN
+F 2 "buttons_custom:3_pin_switch_custom" H 2600 4050 60  0001 C CNN
 F 3 "" H 2600 4050 60  0000 C CNN
 	1    2600 4050
 	0    -1   -1   0   

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rpi_zero_hub-rescue)(type Legacy)(uri ${KIPRJMOD}/rpi_zero_hub-rescue.lib)(options "")(descr ""))
+  (lib (name My_stuff)(type Legacy)(uri /home/facelessloser/Dropbox/kicad/my_stuff/My_stuff.lib)(options "")(descr ""))
+)
